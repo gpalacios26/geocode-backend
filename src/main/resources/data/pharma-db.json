@@ -1,0 +1,378 @@
+[
+    {
+        "farmacia": "inkafarma",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_84/logo2.png",
+        "titulo": " InkaFarma PUENTE NUEVO ",
+        "direccion": "Av. José Carlos Mariátegui 2567, El Agustino 15006, Peru",
+        "latitud": -12.0309731,
+        "longitud": -76.9994904
+    },
+    {
+        "farmacia": "inkafarma",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_84/logo2.png",
+        "titulo": " InkaFarma PUENTE NUEVO 2 ",
+        "direccion": "Av. José Carlos Mariátegui 2403, Cercado de Lima 15006, Peru",
+        "latitud": -12.0327797,
+        "longitud": -76.9988327
+    },
+    {
+        "farmacia": "inkafarma",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_84/logo2.png",
+        "titulo": " InkaFarma CHIMU 4 ",
+        "direccion": "n2, lt, Av Gran Chimú 698, San Juan de Lurigancho 15401, Peru",
+        "latitud": -12.02586,
+        "longitud": -77.0019059
+    },
+    {
+        "farmacia": "inkafarma",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_84/logo2.png",
+        "titulo": " InkaFarma CHIMU 1 ",
+        "direccion": "Av Gran Chimú 391, Cercado de Lima 15401, Peru",
+        "latitud": -12.027313,
+        "longitud": -77.00749069999999
+    },
+    {
+        "farmacia": "inkafarma",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_84/logo2.png",
+        "titulo": " InkaFarma CHIMU 3 ",
+        "direccion": "Av Gran Chimú 381, Cercado de Lima 15401, Peru",
+        "latitud": -12.0273404,
+        "longitud": -77.0077088
+    },
+    {
+        "farmacia": "inkafarma",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " InkaFarma CHIMU 2 ",
+        "direccion": "Av Gran Chimú 916, Cercado de Lima 15401, Peru",
+        "latitud": -12.0249538,
+        "longitud": -76.9984886
+    },
+    {
+        "farmacia": "inkafarma",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " InkaFarma SJL PROCERES 2 ",
+        "direccion": "i lt, Av. Proceres de la Independencia 180, Cercado de Lima 15401, Peru",
+        "latitud": -12.028322,
+        "longitud": -77.0112388
+    },
+    {
+        "farmacia": "inkafarma",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " InkaFarma CHIMU 5 ",
+        "direccion": "Av Gran Chimu 1100, Cercado de Lima 15427, Peru",
+        "latitud": -12.0245363,
+        "longitud": -76.9939122
+    },
+    {
+        "farmacia": "inkafarma",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " InkaFarma CC PARQUE EL AGUSTINO ",
+        "direccion": "El Agustino Jirón Ancash 2151 El Agustino ATE, Lima 15006, Peru",
+        "latitud": -12.0411033,
+        "longitud": -77.0030906
+    },
+    {
+        "farmacia": "inkafarma",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " InkaFarma BRAVO CHICO 2 ",
+        "direccion": "Av. César Vallejo 1423, Lince 15073, Peru",
+        "latitud": -12.0881457,
+        "longitud": -77.04622669999999
+    },
+    {
+        "farmacia": "inkafarma",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " InkaFarma BRAVO CHICO ",
+        "direccion": "Av. César Vallejo 1389, Lince 15073, Peru",
+        "latitud": -12.087961,
+        "longitud": -77.0456289
+    },
+    {
+        "farmacia": "inkafarma",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " InkaFarma SJL LIMA ",
+        "direccion": "Av Lima 282, Cercado de Lima 15404, Peru",
+        "latitud": -12.0256344,
+        "longitud": -77.01520959999999
+    },
+    {
+        "farmacia": "mifarma",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_185/logo2.png",
+        "titulo": " Mifarma ",
+        "direccion": "Av. José Carlos Mariátegui 2599, El Agustino 15006, Peru",
+        "latitud": -12.03067,
+        "longitud": -76.9996102
+    },
+    {
+        "farmacia": "mifarma",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_185/logo2.png",
+        "titulo": " Mifarma ",
+        "direccion": "Av. José Carlos Mariátegui 2561, El Agustino 15006, Peru",
+        "latitud": -12.0311412,
+        "longitud": -76.9995794
+    },
+    {
+        "farmacia": "mifarma",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_185/logo2.png",
+        "titulo": " Mifarma ",
+        "direccion": "Sector 1, San Juan de Miraflores 15824, Peru",
+        "latitud": -12.1773307,
+        "longitud": -76.9674321
+    },
+    {
+        "farmacia": "mifarma",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_185/logo2.png",
+        "titulo": " Mifarma ",
+        "direccion": "Av Gran Chimú 400, San Juan de Lurigancho 15401, Peru",
+        "latitud": -12.027472,
+        "longitud": -77.007105
+    },
+    {
+        "farmacia": "mifarma",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_185/logo2.png",
+        "titulo": " Mifarma ",
+        "direccion": "Av Gran Chimú 747, San Juan de Lurigancho 15401, Peru",
+        "latitud": -12.0253975,
+        "longitud": -77.0010757
+    },
+    {
+        "farmacia": "mifarma",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Mifarma ",
+        "direccion": "Av Gran Chimú 885, San Juan de Lurigancho 15401, Peru",
+        "latitud": -12.0249189,
+        "longitud": -76.998796
+    },
+    {
+        "farmacia": "mifarma",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Mifarma ",
+        "direccion": "Av. Cesar Vallejo, El Agustino, Peru",
+        "latitud": -12.0402129,
+        "longitud": -76.98418099999999
+    },
+    {
+        "farmacia": "mifarma",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Mifarma ",
+        "direccion": "Paracas 206a, Cercado de Lima 15022, Peru",
+        "latitud": -12.0761928,
+        "longitud": -76.9878742
+    },
+    {
+        "farmacia": "mifarma",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Mifarma ",
+        "direccion": "Av. Las Flores de Primavera, Cercado de Lima, Peru",
+        "latitud": -12.011735,
+        "longitud": -77.0114627
+    },
+    {
+        "farmacia": "mifarma",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Mifarma ",
+        "direccion": "Avenida Áncash, El Agustino 15006, Peru",
+        "latitud": -12.0405337,
+        "longitud": -76.997886
+    },
+    {
+        "farmacia": "mifarma",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Mifarma ",
+        "direccion": "Lima, Peru",
+        "latitud": -12.0463731,
+        "longitud": -77.042754
+    },
+    {
+        "farmacia": "mifarma",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Mifarma ",
+        "direccion": "Av. Samuel Alcazar 668, Cercado de Lima 15094, Peru",
+        "latitud": -12.0285012,
+        "longitud": -77.0314267
+    },
+    {
+        "farmacia": "farmacia-universal",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_471/logo2.png",
+        "titulo": " Farmacia Universal San Juan de Lurigancho ",
+        "direccion": "Av. los Jardines Este 183, San Juan de Lurigancho 15419, Peru",
+        "latitud": -12.007133,
+        "longitud": -77.007817
+    },
+    {
+        "farmacia": "farmacia-universal",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_471/logo2.png",
+        "titulo": " Farmacia Universal Lima ",
+        "direccion": "Avenida Emancipación 799, Cercado de Lima 15001, Peru",
+        "latitud": -12.044777,
+        "longitud": -77.04029659999999
+    },
+    {
+        "farmacia": "farmacia-universal",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_471/logo2.png",
+        "titulo": " Farmacia Universal R. Polonia ",
+        "direccion": "Av. República de Polonia 600, Lima 15419, Peru",
+        "latitud": -11.9747176,
+        "longitud": -77.0020907
+    },
+    {
+        "farmacia": "farmacia-universal",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_471/logo2.png",
+        "titulo": " Farmacia Universal La Molina ",
+        "direccion": "Av. Los Constructores 122, La Molina 15012, Peru",
+        "latitud": -12.0677644,
+        "longitud": -76.9577278
+    },
+    {
+        "farmacia": "farmacia-universal",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_471/logo2.png",
+        "titulo": " Farmacia Universal San Borja 2 ",
+        "direccion": "Av. Aviación 2880, San Borja 15036, Peru",
+        "latitud": -12.097612,
+        "longitud": -77.002387
+    },
+    {
+        "farmacia": "farmacia-universal",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Farmacia Universal San Borja ",
+        "direccion": "Av. Aviación 2898, San Borja 15036, Peru",
+        "latitud": -12.0978354,
+        "longitud": -77.0024072
+    },
+    {
+        "farmacia": "farmacia-universal",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Farmacia Universal Surco - Chacarilla ",
+        "direccion": "Av. Caminos del Inca 390, Santiago de Surco 15038, Peru",
+        "latitud": -12.1150032,
+        "longitud": -76.9914414
+    },
+    {
+        "farmacia": "farmacia-universal",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Farmacia Universal Surco El Trigal ",
+        "direccion": "Av. Alfredo Benavides 4652, Lima 15039, Peru",
+        "latitud": -12.1280014,
+        "longitud": -76.98865239999999
+    },
+    {
+        "farmacia": "farmacia-universal",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Farmacia Universal Jesús María ",
+        "direccion": "Av. San Felipe 610, Jesús María 15072, Peru",
+        "latitud": -12.0833103,
+        "longitud": -77.05190400000001
+    },
+    {
+        "farmacia": "farmacia-universal",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Farmacia Universal Los Olivos ",
+        "direccion": "Av. Las Palmeras 3851, Los Olivos 15301, Peru",
+        "latitud": -11.990191,
+        "longitud": -77.0719759
+    },
+    {
+        "farmacia": "farmacia-universal",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Farmacia Universal San Miguel ",
+        "direccion": "Av. la Marina 2543, San Miguel 15087, Peru",
+        "latitud": -12.0782633,
+        "longitud": -77.0900121
+    },
+    {
+        "farmacia": "boticas-peru",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_472/logo2.png",
+        "titulo": " Boticas Perú ",
+        "direccion": "Camaná 700, Cercado de Lima 15106, Peru",
+        "latitud": -12.0335272,
+        "longitud": -77.081914
+    },
+    {
+        "farmacia": "boticas-peru",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_472/logo2.png",
+        "titulo": " Boticas Perú ",
+        "direccion": "Av. Nicolás de Piérola 798, Cercado de Lima 15001, Peru",
+        "latitud": -12.050789,
+        "longitud": -77.0361757
+    },
+    {
+        "farmacia": "boticas-peru",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_472/logo2.png",
+        "titulo": " Boticas Perú ",
+        "direccion": "Avenida Alfonso Ugarte 1020, Breña LIMA 05, Peru",
+        "latitud": -12.0527223,
+        "longitud": -77.0425735
+    },
+    {
+        "farmacia": "boticas-peru",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_472/logo2.png",
+        "titulo": " Boticas Perú ",
+        "direccion": "Av. República de Venezuela 907, Breña 15082, Peru",
+        "latitud": -12.05513,
+        "longitud": -77.0466529
+    },
+    {
+        "farmacia": "boticas-peru",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_472/logo2.png",
+        "titulo": " Boticas Perú ",
+        "direccion": "Av. la Molina 870, La Molina 15012, Peru",
+        "latitud": -12.0691564,
+        "longitud": -76.95813059999999
+    },
+    {
+        "farmacia": "boticas-peru",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Boticas Perú ",
+        "direccion": "Av. Arenales 1976, Lince 15073, Peru",
+        "latitud": -12.0844715,
+        "longitud": -77.03573
+    },
+    {
+        "farmacia": "boticas-peru",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Boticas Perú ",
+        "direccion": "Av. Rivera Navarrete 2673, Lince 15046, Peru",
+        "latitud": -12.0894906,
+        "longitud": -77.0271491
+    },
+    {
+        "farmacia": "boticas-peru",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Boticas Perú ",
+        "direccion": "Av. Aviación 2744, San Borja 15036, Peru",
+        "latitud": -12.095357,
+        "longitud": -77.002713
+    },
+    {
+        "farmacia": "boticas-peru",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Boticas Perú ",
+        "direccion": "Av. Andrés Aramburú 235, San Isidro 15046, Peru",
+        "latitud": -12.1030785,
+        "longitud": -77.0300237
+    },
+    {
+        "farmacia": "boticas-peru",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Boticas Perú ",
+        "direccion": "Av. Antunez de Mayolo 1173, Los Olivos 15302, Peru",
+        "latitud": -11.9950843,
+        "longitud": -77.076492
+    },
+    {
+        "farmacia": "boticas-peru",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Boticas Perú   -C.M. Bast. Alt. Km 11 Tu. A  ",
+        "direccion": "15328, Peru",
+        "latitud": -11.9601929,
+        "longitud": -77.0420541
+    },
+    {
+        "farmacia": "boticas-peru",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Boticas Perú   -Km 7.5 (Hospital de la solidaridad) ",
+        "direccion": "Av Tupac Amaru, Chorrillos, Peru",
+        "latitud": -12.1964408,
+        "longitud": -76.9847893
+    }
+]

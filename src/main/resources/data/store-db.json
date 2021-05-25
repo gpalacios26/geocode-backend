@@ -1,0 +1,698 @@
+[
+    {
+        "tienda": "plaza-vea",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_5/logo2.png",
+        "titulo": " Plaza Vea Magnolias ",
+        "direccion": "Av Jose Carlos Mariategui, Villa EL Salvador, Peru",
+        "latitud": -12.2221507,
+        "longitud": -76.93467199999999
+    },
+    {
+        "tienda": "plaza-vea",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_5/logo2.png",
+        "titulo": " Plaza Vea Zárate ",
+        "direccion": "23 Urb. Parcelación Rustica, San Juan de Lurigancho 15427, Peru",
+        "latitud": -12.0164207,
+        "longitud": -76.9929274
+    },
+    {
+        "tienda": "plaza-vea",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_5/logo2.png",
+        "titulo": " Plaza Vea Acho ",
+        "direccion": "Marañón 601, Rímac 15093, Peru",
+        "latitud": -12.0414696,
+        "longitud": -77.0219919
+    },
+    {
+        "tienda": "plaza-vea",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_5/logo2.png",
+        "titulo": " Plaza Vea Super Rímac ",
+        "direccion": "Av. Alcazar 620 cruce con Av, Calle las Calezas 180, Lima 15094, Peru",
+        "latitud": -12.0289497,
+        "longitud": -77.03085329999999
+    },
+    {
+        "tienda": "plaza-vea",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_5/logo2.png",
+        "titulo": " Plaza Vea Cine Rimac ",
+        "direccion": "Av. Tarapaca 455, Lima 15094, Peru",
+        "latitud": -12.0303455,
+        "longitud": -77.03627879999999
+    },
+    {
+        "tienda": "plaza-vea",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " PlazaVea México ",
+        "direccion": "Avenida México 2480, La Victoria 15019, Peru",
+        "latitud": -12.0653348,
+        "longitud": -77.00366749999999
+    },
+    {
+        "tienda": "plaza-vea",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Plaza Vea Jirón de la Unión ",
+        "direccion": "Jirón de la Unión & Jr. Huancavelica, Cercado de Lima 15001, Peru",
+        "latitud": -12.0480536,
+        "longitud": -77.0327527
+    },
+    {
+        "tienda": "plaza-vea",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Plaza Vea San Juan de Lurigancho ",
+        "direccion": "San Fernando, Cercado de Lima, Peru",
+        "latitud": -11.9916563,
+        "longitud": -77.01254449999999
+    },
+    {
+        "tienda": "plaza-vea",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Plaza Vea La Victoria ",
+        "direccion": "Av Bausate y Meza 332, Cercado de Lima 15033, Peru",
+        "latitud": -12.0648303,
+        "longitud": -77.03004469999999
+    },
+    {
+        "tienda": "plaza-vea",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Plaza Vea Centro Cívico ",
+        "direccion": "Av. Inca Garcilaso de la Vega 1383, Cercado de Lima 15001, Peru",
+        "latitud": -12.0567192,
+        "longitud": -77.037111
+    },
+    {
+        "tienda": "plaza-vea",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Plaza Vea Alfonso Ugarte ",
+        "direccion": "Avenida Alfonso Ugarte & Avenida Uruguay, Breña 15082, Peru",
+        "latitud": -12.0545153,
+        "longitud": -77.04221690000001
+    },
+    {
+        "tienda": "plaza-vea",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Plaza Vea Ate ",
+        "direccion": "Fundo, Av. Nicolás Ayllón 99B, Ate 06000, Peru",
+        "latitud": -12.0153409,
+        "longitud": -76.88527909999999
+    },
+    {
+        "tienda": "tottus",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_3/logo2.png",
+        "titulo": " Tottus El Agustino ",
+        "direccion": "Avenida Áncash 2479, El Agustino 15006, Peru",
+        "latitud": -12.0408362,
+        "longitud": -77.000956
+    },
+    {
+        "tienda": "tottus",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_3/logo2.png",
+        "titulo": " Tottus Hilarion ",
+        "direccion": "Mz. E1 Lote 1, San Hilarion Este, San Juan de Lurigancho 15434, Peru",
+        "latitud": -11.993199,
+        "longitud": -77.009649
+    },
+    {
+        "tienda": "tottus",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_3/logo2.png",
+        "titulo": " Tottus Lima Centro ",
+        "direccion": "Av. Tacna 665, Cercado de Lima 15001, Peru",
+        "latitud": -12.048122,
+        "longitud": -77.03836190000001
+    },
+    {
+        "tienda": "tottus",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_3/logo2.png",
+        "titulo": " Tottus Santa Anita ",
+        "direccion": "Av. Nicolás Ayllón, Santa Anita 15008, Peru",
+        "latitud": -12.0568533,
+        "longitud": -76.97074219999999
+    },
+    {
+        "tienda": "tottus",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_3/logo2.png",
+        "titulo": " Tottus Jockey P. ",
+        "direccion": "Av. Javier Prado Este Nro. 4010 Urb, Santiago de Surco 15023, Peru",
+        "latitud": -12.085319,
+        "longitud": -76.97889900000001
+    },
+    {
+        "tienda": "tottus",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Tottus la Fontana ",
+        "direccion": "Av. la Fontana 790, La Molina 15024, Peru",
+        "latitud": -12.0731421,
+        "longitud": -76.95084349999999
+    },
+    {
+        "tienda": "tottus",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Tottus San Luis ",
+        "direccion": "Av San Luis 2399, San Borja 15037, Peru",
+        "latitud": -12.097408,
+        "longitud": -76.9948979
+    },
+    {
+        "tienda": "tottus",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Totus Puruchuco ",
+        "direccion": "Av. Nicolás Ayllón 4770, Ate 15494, Peru",
+        "latitud": -12.0391941,
+        "longitud": -76.9324177
+    },
+    {
+        "tienda": "tottus",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Tottus Begonias ",
+        "direccion": "Calle Las Begonias 785, San Isidro 15046, Peru",
+        "latitud": -12.0960258,
+        "longitud": -77.02547369999999
+    },
+    {
+        "tienda": "tottus",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Tottus Megaplaza ",
+        "direccion": "Av. Alfredo Mendiola 3698, San Martín de Porres 15311, Peru",
+        "latitud": -11.9942378,
+        "longitud": -77.06123889999999
+    },
+    {
+        "tienda": "tottus",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Tottus Angamos ",
+        "direccion": "Av. Angamos 1803, Surquillo 15038, Peru",
+        "latitud": -12.1119594,
+        "longitud": -77.011595
+    },
+    {
+        "tienda": "tottus",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Tottus Comandante  ",
+        "direccion": "Avenida Comandante Espinar 719, Miraflores 15074, Peru",
+        "latitud": -12.112119,
+        "longitud": -77.03712700000001
+    },
+    {
+        "tienda": "metro",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_2/logo2.png",
+        "titulo": " Metro Augustino ",
+        "direccion": "Calle 6, El Agustino 15011, Peru",
+        "latitud": -12.0384188,
+        "longitud": -76.9570269
+    },
+    {
+        "tienda": "metro",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_2/logo2.png",
+        "titulo": " Metro San Juan De Lurigancho ",
+        "direccion": "Av. Proceres de la Independencia 1632, San Juan de Lurigancho 15431, Peru",
+        "latitud": -12.0066429,
+        "longitud": -77.0043709
+    },
+    {
+        "tienda": "metro",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_2/logo2.png",
+        "titulo": " Metro Perricholi ",
+        "direccion": "Jirón Trujillo 414, Rímac 15093, Peru",
+        "latitud": -12.0407191,
+        "longitud": -77.0293623
+    },
+    {
+        "tienda": "metro",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_2/logo2.png",
+        "titulo": " Metro Gamarra ",
+        "direccion": "Agustin Gamarra 1215, La Victoria 15018, Peru",
+        "latitud": -12.0706323,
+        "longitud": -77.01303539999999
+    },
+    {
+        "tienda": "metro",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_2/logo2.png",
+        "titulo": " Metro Plaza Castilla ",
+        "direccion": "Calle Oroya & Plaza Ramón Castilla, Cercado de Lima 15079, Peru",
+        "latitud": -12.0430537,
+        "longitud": -77.0425298
+    },
+    {
+        "tienda": "metro",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Metro Manco Capac ",
+        "direccion": "Av Bausate y Meza & Av. Manco Cápac, La Victoria 15033, Peru",
+        "latitud": -12.0645356,
+        "longitud": -77.02905539999999
+    },
+    {
+        "tienda": "metro",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Metro Breña ",
+        "direccion": "Avenida Alfonso Ugarte & Av. República de Venezuela, Breña 15082, Peru",
+        "latitud": -12.0545153,
+        "longitud": -77.04221690000001
+    },
+    {
+        "tienda": "metro",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Metro Emancipación ",
+        "direccion": "Jr. Cuzco 245, Cercado de Lima 15086, Peru",
+        "latitud": -12.0900809,
+        "longitud": -77.06809109999999
+    },
+    {
+        "tienda": "metro",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Metro Mexico ",
+        "direccion": "Javier Luna Pizarro 1550, Cercado de Lima 15033, Peru",
+        "latitud": -12.0753454,
+        "longitud": -77.0260383
+    },
+    {
+        "tienda": "metro",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Metro Martinto ",
+        "direccion": "Av. Arica 571-581-589-599, Breña 15083, Peru",
+        "latitud": -12.0588031,
+        "longitud": -77.0470545
+    },
+    {
+        "tienda": "metro",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Metro Ingenieria ",
+        "direccion": "Av. Tupac Amaru, Peru",
+        "latitud": -11.8636124,
+        "longitud": -77.0081577
+    },
+    {
+        "tienda": "metro",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Metro Canadá ",
+        "direccion": "Av. Canadá 1110, Cercado de Lima 15034, Peru",
+        "latitud": -12.0838528,
+        "longitud": -77.01386289999999
+    },
+    {
+        "tienda": "supermercados-wong",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_23/logo2.png",
+        "titulo": " Wong Ate ",
+        "direccion": "Av. la Molina 378, Ate 15023, Peru",
+        "latitud": -12.0604558,
+        "longitud": -76.9642839
+    },
+    {
+        "tienda": "supermercados-wong",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_23/logo2.png",
+        "titulo": " Wong San Borja ",
+        "direccion": "Jr. Ucello 162, San Borja 15036, Peru",
+        "latitud": -12.0900062,
+        "longitud": -77.0056153
+    },
+    {
+        "tienda": "supermercados-wong",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_23/logo2.png",
+        "titulo": " Wong Camacho ",
+        "direccion": "Av. Javier Prado Este 5193 La Molina, La Molina LIMA 12, Peru",
+        "latitud": -12.080067,
+        "longitud": -76.9667147
+    },
+    {
+        "tienda": "supermercados-wong",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_23/logo2.png",
+        "titulo": " Wong Patio Panorama ",
+        "direccion": "Paradero U. De Lima Ovalo Monitor, Santiago de Surco 15023, Peru",
+        "latitud": -12.0837594,
+        "longitud": -76.97032209999999
+    },
+    {
+        "tienda": "supermercados-wong",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_23/logo2.png",
+        "titulo": " Wong Dos De Mayo ",
+        "direccion": "Av. dos de Mayo 1099, San Isidro 15073, Peru",
+        "latitud": -12.0920142,
+        "longitud": -77.041915
+    },
+    {
+        "tienda": "supermercados-wong",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Wong La Molina ",
+        "direccion": "Las Retamas 190, La Molina 15024, Peru",
+        "latitud": -12.0913225,
+        "longitud": -76.951039
+    },
+    {
+        "tienda": "supermercados-wong",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Wong Chacarilla ",
+        "direccion": "Monte Bello 150, Santiago de Surco 15038, Peru",
+        "latitud": -12.1118741,
+        "longitud": -76.9921258
+    },
+    {
+        "tienda": "supermercados-wong",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Wong Ovalo Gutierrez ",
+        "direccion": "Av. Sta. Cruz 771, San Isidro 15073, Peru",
+        "latitud": -12.1106953,
+        "longitud": -77.03648
+    },
+    {
+        "tienda": "supermercados-wong",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Wong San Miguel ",
+        "direccion": "Av. la Marina & Av. Universitaria, San Miguel 15084, Peru",
+        "latitud": -12.078418,
+        "longitud": -77.0806494
+    },
+    {
+        "tienda": "supermercados-wong",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Wong Aurora ",
+        "direccion": "Coronel Luis Arias Schereiber 270, Miraflores 15048, Peru",
+        "latitud": -12.121361,
+        "longitud": -77.011337
+    },
+    {
+        "tienda": "supermercados-wong",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Wong La Planicie ",
+        "direccion": "Avenida Ricardo Elías Aparicio & Tahiti, La Molina 15026, Peru",
+        "latitud": -12.0777141,
+        "longitud": -76.9179936
+    },
+    {
+        "tienda": "supermercados-wong",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Wong Benavides ",
+        "direccion": "Av. Alfredo Benavides 1475, Miraflores 15047, Peru",
+        "latitud": -12.1260991,
+        "longitud": -77.0177977
+    },
+    {
+        "tienda": "vivanda",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_6/logo2.png",
+        "titulo": " Tienda Vivanda Dos de Mayo ",
+        "direccion": "Av. dos de Mayo 1410, San Isidro 15073, Peru",
+        "latitud": -12.092162,
+        "longitud": -77.045435
+    },
+    {
+        "tienda": "vivanda",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_6/logo2.png",
+        "titulo": " Tienda Vivanda Libertadores ",
+        "direccion": "Calle Los Libertadores 596, San Isidro 15073, Peru",
+        "latitud": -12.1038617,
+        "longitud": -77.03791009999999
+    },
+    {
+        "tienda": "vivanda",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_6/logo2.png",
+        "titulo": " Tienda Vivanda Javier Prado ",
+        "direccion": "Av Javier Prado Oeste 999, Cercado de Lima 15076, Peru",
+        "latitud": -12.0931737,
+        "longitud": -77.0579052
+    },
+    {
+        "tienda": "vivanda",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_6/logo2.png",
+        "titulo": " Tienda Vivanda Monterrico ",
+        "direccion": "Av. La Encalada cuadra 5, esquina con av. Angamos Este cuadra 15, Av. Primavera MZA. R1 LOTE. 1D, Santiago de Surco 15023, Peru",
+        "latitud": -12.109158,
+        "longitud": -76.9719353
+    },
+    {
+        "tienda": "vivanda",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_6/logo2.png",
+        "titulo": " Tienda Vivanda Pezet ",
+        "direccion": "Av. Gral. Juan Antonio Pezet 1340 – 1360, San Isidro 15076, Peru",
+        "latitud": -12.1027001,
+        "longitud": -77.05219989999999
+    },
+    {
+        "tienda": "vivanda",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Tienda Vivanda La Molina ",
+        "direccion": "La Cascada, La Molina 15026, Peru",
+        "latitud": -12.0808249,
+        "longitud": -76.9274621
+    },
+    {
+        "tienda": "vivanda",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Tienda Vivanda Pardo ",
+        "direccion": "Av. José Pardo 715, Miraflores 15074, Peru",
+        "latitud": -12.1192837,
+        "longitud": -77.0361384
+    },
+    {
+        "tienda": "vivanda",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Tienda Vivanda Benavides ",
+        "direccion": "Av. Alfredo Benavides 495, Miraflores 15074, Peru",
+        "latitud": -12.1247636,
+        "longitud": -77.0278617
+    },
+    {
+        "tienda": "makro",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_7/logo2.png",
+        "titulo": " Makro San Juan de Lurigancho ",
+        "direccion": "Avenida El Santuario & Gran Pajaten, San Juan de Lurigancho 15427, Peru",
+        "latitud": -12.0211548,
+        "longitud": -76.9861251
+    },
+    {
+        "tienda": "makro",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_7/logo2.png",
+        "titulo": " Makro Santa Anita ",
+        "direccion": "Km 1 - ( a 1, Carr. Central 345, 15536, Peru",
+        "latitud": -11.9226254,
+        "longitud": -76.6321574
+    },
+    {
+        "tienda": "makro",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_7/logo2.png",
+        "titulo": " Makro Independencia ",
+        "direccion": "Av. Tomas Valle, Independencia 15311, Peru",
+        "latitud": -12.007004,
+        "longitud": -77.0582257
+    },
+    {
+        "tienda": "makro",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_7/logo2.png",
+        "titulo": " Makro Callao ",
+        "direccion": "Av. Elmer Faucett, Cercado de Lima 07001, Peru",
+        "latitud": -12.0506678,
+        "longitud": -77.0989955
+    },
+    {
+        "tienda": "makro",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_7/logo2.png",
+        "titulo": " Makro Surco ",
+        "direccion": "Av. Jorge Chavez S/N, Santiago de Surco 15063, Peru",
+        "latitud": -12.1582362,
+        "longitud": -77.0003067
+    },
+    {
+        "tienda": "makro",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Makro Comas ",
+        "direccion": "Av. Chacra Cerro, Comas 15316, Peru",
+        "latitud": -11.9124918,
+        "longitud": -77.0584319
+    },
+    {
+        "tienda": "makro",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Makro Villa el Salvador ",
+        "direccion": "Cruce Panamericana Sur con Av. Mateo Pumacahua, (Frente al Parque Zonal Huayna Cápac), Lima 15842, Peru",
+        "latitud": -12.1930564,
+        "longitud": -76.97082929999999
+    },
+    {
+        "tienda": "tambo",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_957/logo2.png",
+        "titulo": " Tambo ",
+        "direccion": "Pirámide del Sol 405, Cercado de Lima 15401, Peru",
+        "latitud": -12.025561,
+        "longitud": -77.0020067
+    },
+    {
+        "tienda": "tambo",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_957/logo2.png",
+        "titulo": " Tambo ",
+        "direccion": "Vara de Oro 240, Cercado de Lima 15401, Peru",
+        "latitud": -12.025523,
+        "longitud": -76.9983771
+    },
+    {
+        "tienda": "tambo",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_957/logo2.png",
+        "titulo": " Tambo ",
+        "direccion": "Av Gran Chimú 344, Cercado de Lima 15401, Peru",
+        "latitud": -12.027674,
+        "longitud": -77.0087309
+    },
+    {
+        "tienda": "tambo",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_957/logo2.png",
+        "titulo": " Tambo ",
+        "direccion": "Av. Proceres de la Independencia 190, Cercado de Lima 15401, Peru",
+        "latitud": -12.0260021,
+        "longitud": -77.00998539999999
+    },
+    {
+        "tienda": "tambo",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_957/logo2.png",
+        "titulo": " Tambo ",
+        "direccion": "Jr. Los Líquenes, San Juan de Lurigancho, Peru",
+        "latitud": -12.0174157,
+        "longitud": -77.0056407
+    },
+    {
+        "tienda": "tambo",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Tambo ",
+        "direccion": "Haravicu 380, Cercado de Lima 15427, Peru",
+        "latitud": -12.0244845,
+        "longitud": -76.98877279999999
+    },
+    {
+        "tienda": "tambo",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Tambo ",
+        "direccion": "Av. Riva Agüero 1470, Cercado de Lima 15006, Peru",
+        "latitud": -12.0471705,
+        "longitud": -76.9997566
+    },
+    {
+        "tienda": "tambo",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Tambo ",
+        "direccion": "G Lote, Av. Las Flores de Primavera 1014, Cercado de Lima 15419, Peru",
+        "latitud": -12.0120473,
+        "longitud": -77.011197
+    },
+    {
+        "tienda": "tambo",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Tambo ",
+        "direccion": "Av. Las Flores de Primavera, San Juan de Lurigancho, Peru",
+        "latitud": -12.0109891,
+        "longitud": -77.0113722
+    },
+    {
+        "tienda": "tambo",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Tambo ",
+        "direccion": "Urb. Jirón, Templo de Aspero 334, San Juan de Lurigancho 15427, Peru",
+        "latitud": -12.016659,
+        "longitud": -76.9846243
+    },
+    {
+        "tienda": "tambo",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Tambo ",
+        "direccion": "Av. Riva Agüero 674, Cercado de Lima 15004, Peru",
+        "latitud": -12.0534684,
+        "longitud": -77.0037691
+    },
+    {
+        "tienda": "tambo",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Tambo ",
+        "direccion": "Av. Los Jardines Oeste 149, Lima 15419, Peru",
+        "latitud": -12.0052461,
+        "longitud": -77.0052109
+    },
+    {
+        "tienda": "mass",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_13/logo2.png",
+        "titulo": " Mass Algarrobos ",
+        "direccion": "Algarraobos, Puente Piedra 15116, Peru",
+        "latitud": -11.9348157,
+        "longitud": -77.08453779999999
+    },
+    {
+        "tienda": "mass",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_13/logo2.png",
+        "titulo": " Mass Tusilagos ",
+        "direccion": "Av. Proceres de la Independencia 1147, Cercado de Lima 15401, Peru",
+        "latitud": -12.0159783,
+        "longitud": -77.00218339999999
+    },
+    {
+        "tienda": "mass",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_13/logo2.png",
+        "titulo": " Mass Manco Capac ",
+        "direccion": "Av. 28 de Julio 1406, Cercado de Lima 15033, Peru",
+        "latitud": -12.0632643,
+        "longitud": -77.028985
+    },
+    {
+        "tienda": "mass",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_13/logo2.png",
+        "titulo": " Mass Aymaras ",
+        "direccion": "Yungas 231, Cercado de Lima 15022, Peru",
+        "latitud": -12.0752344,
+        "longitud": -76.988715
+    },
+    {
+        "tienda": "mass",
+        "imagen": "https://static0.tiendeo.pe/upload_negocio/negocio_13/logo2.png",
+        "titulo": " Mass Del Aire ",
+        "direccion": "Av del Aire 1308, Cercado de Lima 15021, Peru",
+        "latitud": -12.077457,
+        "longitud": -76.9971468
+    },
+    {
+        "tienda": "mass",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Mass Los Quechuas ",
+        "direccion": "Avenida Los Quechuas 556, Cercado de Lima 15022, Peru",
+        "latitud": -12.0747719,
+        "longitud": -76.9840237
+    },
+    {
+        "tienda": "mass",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Mass Habich ",
+        "direccion": "Av. Eduardo de Habich 137, Cercado de Lima 15102, Peru",
+        "latitud": -12.0240533,
+        "longitud": -77.0508359
+    },
+    {
+        "tienda": "mass",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Mass Habich ",
+        "direccion": "Av. Eduardo de Habich 516, Cercado de Lima 15102, Peru",
+        "latitud": -12.0272491,
+        "longitud": -77.05613269999999
+    },
+    {
+        "tienda": "mass",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Mass Talara ",
+        "direccion": "Av Talara 472, Cercado de Lima 15072, Peru",
+        "latitud": -12.0708457,
+        "longitud": -77.04509940000001
+    },
+    {
+        "tienda": "mass",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Mass ",
+        "direccion": "Miguel Angel 577, Cercado de Lima 15102, Peru",
+        "latitud": -12.0109431,
+        "longitud": -77.0597542
+    },
+    {
+        "tienda": "mass",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Mass Santa Rosa ",
+        "direccion": "Av. San Martín, San Juan de Lurigancho 15419, Peru",
+        "latitud": -11.9692347,
+        "longitud": -77.000759
+    },
+    {
+        "tienda": "mass",
+        "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=",
+        "titulo": " Mass Candamo ",
+        "direccion": "Jirón Manuel Candamo 120, Lince 15073, Peru",
+        "latitud": -12.0826842,
+        "longitud": -77.0355866
+    }
+]
